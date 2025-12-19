@@ -18,12 +18,25 @@ int main() {
     cout << "Welcome to Cpp" << endl;
     cout << endl;
     cout << "Untitled | Version: " << version << endl;
-    if (version <= 10) {
-        cout << "Congrats, you are on the latest version!" << endl;
-    }else if (version <= 20) {
-        cout << "Your version is: " << version << endl;
-    }else {
-        cout << "Your version is outdated" << endl;
+//    if (version <= 10) {
+//        cout << "Congrats, you are on the latest version!" << endl;
+//    }else if (version <= 20) {
+//        cout << "Your version is: " << version << endl;
+//    }else {
+//        cout << "Your version is outdated" << endl;
+//    }
+    cout << endl;
+    cout << "Cases: " << endl;
+    switch (version) {
+        case 1:
+            cout << "Your version is: 1" << endl;
+            break;
+        case 2:
+            cout << "Your version is: 2" << endl;
+            break;
+        case 3:
+            cout << "Your version is: 3" << endl;
+            break;
     }
     return 0;
 }
