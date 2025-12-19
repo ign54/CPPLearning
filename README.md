@@ -3,3 +3,22 @@
 ## A unexpected project from a minecraft no lifer (crazy i know)
 
 ### Here, I will be tracking my progress, while I learn CPP :P
+
+
+#### To Do:
+
+- [ ] Learn While loops
+- [ ] Learn For loops
+- [ ] Learn Arrays
+- [ ] Learn structures
+- [ ] Learn Enums
+
+
+#### Achieved:
+
+- [x] Variables
+- [x] Input / Output
+- [x] Cases
+- [x] If Else Else If
+- [x] Math
+- [x] Operators
