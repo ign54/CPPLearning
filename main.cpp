@@ -5,7 +5,13 @@
  * - Dlx
  */
 
-
+/*
+* Things I learnt so far:
+* CPP Syntax
+* Integers, Variables (how to declare them)
+* User Input
+* Functions (67%)
+ */
 
 
 
